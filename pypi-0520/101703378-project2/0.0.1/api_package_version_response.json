@@ -1,0 +1,93 @@
+{
+    "info": {
+        "author": "Nitin",
+        "author_email": "nnitin_be17@thapar.edu",
+        "bugtrack_url": null,
+        "classifiers": [],
+        "description": "this project is used to remove outliers\nNitin (101703378)\nCOE17\n\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "",
+        "keywords": "",
+        "license": "",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "101703378-project2",
+        "package_url": "https://pypi.org/project/101703378-project2/",
+        "platform": "",
+        "project_url": "https://pypi.org/project/101703378-project2/",
+        "project_urls": null,
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/101703378-project2/0.0.1/",
+        "requires_dist": null,
+        "requires_python": ">=2.7",
+        "summary": "Removing outliers from a pandas dataframe",
+        "version": "0.0.1",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 6615686,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "nitinberwal"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "82ef4478109873c0cc6affc2f368fec1c0388c54e3d3025eb582bcfe919b6167",
+                "md5": "ac6eee8bfc8f5e3ae08e4d70ac801bae",
+                "sha256": "ea9a97ec737767727b60b8892c40e3f8125079a56a935095daa5e90dae1beae7"
+            },
+            "downloads": -1,
+            "filename": "101703378_project2-0.0.1-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "ac6eee8bfc8f5e3ae08e4d70ac801bae",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": ">=2.7",
+            "size": 2408,
+            "upload_time": "2020-02-12T11:16:14",
+            "upload_time_iso_8601": "2020-02-12T11:16:14.055326Z",
+            "url": "https://files.pythonhosted.org/packages/82/ef/4478109873c0cc6affc2f368fec1c0388c54e3d3025eb582bcfe919b6167/101703378_project2-0.0.1-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "9dba1263f14380bf64dbe5b14b91346730df394d4edccbeea1934013facb8d25",
+                "md5": "f51aa05815acbd130fd7cff46c0813c8",
+                "sha256": "0592f5313e71f48e8fdb2126f216ba8bbbf1c29092a58c7b518134f3c82dd7f6"
+            },
+            "downloads": -1,
+            "filename": "101703378_project2-0.0.1.tar.gz",
+            "has_sig": false,
+            "md5_digest": "f51aa05815acbd130fd7cff46c0813c8",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": ">=2.7",
+            "size": 1486,
+            "upload_time": "2020-02-12T11:16:16",
+            "upload_time_iso_8601": "2020-02-12T11:16:16.692663Z",
+            "url": "https://files.pythonhosted.org/packages/9d/ba/1263f14380bf64dbe5b14b91346730df394d4edccbeea1934013facb8d25/101703378_project2-0.0.1.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}

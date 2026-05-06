@@ -1,0 +1,95 @@
+{
+    "info": {
+        "author": "Nishant Dhanda",
+        "author_email": "ndhanda_be17@thapar.edu",
+        "bugtrack_url": null,
+        "classifiers": [],
+        "description": "# A library capable of removing outliers from a pandas dataframe\n\n```\nPROJECT 2, UCS633 - Data Analysis and Visualization\nNishant Dhanda \nCOE17\nRoll number: 101703375\n```\n\n\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "https://github.com/NishantDhanda/101703375_p2/",
+        "keywords": "CLI,OUTLIER,Data,outlier removal",
+        "license": "",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "101703375-p2",
+        "package_url": "https://pypi.org/project/101703375-p2/",
+        "platform": "",
+        "project_url": "https://pypi.org/project/101703375-p2/",
+        "project_urls": {
+            "Homepage": "https://github.com/NishantDhanda/101703375_p2/"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/101703375-p2/0.0.8/",
+        "requires_dist": null,
+        "requires_python": ">=3.6",
+        "summary": "Removal of outliers using pandas",
+        "version": "0.0.8",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 6583515,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "dnishant"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "2e292c9b8285bd339920d3f69e26cb621fc3b721d179a8110d79ddb0f682863f",
+                "md5": "5eaed6e303a0072234ee22985ee4e7ba",
+                "sha256": "ad809a5d91c5f344f6b424fd5e903a58f768835326d1c487dcf6ffb33e7ac87d"
+            },
+            "downloads": -1,
+            "filename": "101703375_p2-0.0.8-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "5eaed6e303a0072234ee22985ee4e7ba",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": ">=3.6",
+            "size": 3245,
+            "upload_time": "2020-02-06T16:39:37",
+            "upload_time_iso_8601": "2020-02-06T16:39:37.602634Z",
+            "url": "https://files.pythonhosted.org/packages/2e/29/2c9b8285bd339920d3f69e26cb621fc3b721d179a8110d79ddb0f682863f/101703375_p2-0.0.8-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "fa9ac4ac98ff2c6b6827724cdb41d4509c360d39bd4e55d08651683b2251d55c",
+                "md5": "c8c616b50c7113a2ffe95c160192dd59",
+                "sha256": "8198b0fd0732b06a4b31033be890a087fea5e45c089650e1369cbbffa171da79"
+            },
+            "downloads": -1,
+            "filename": "101703375_p2-0.0.8.tar.gz",
+            "has_sig": false,
+            "md5_digest": "c8c616b50c7113a2ffe95c160192dd59",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": ">=3.6",
+            "size": 1726,
+            "upload_time": "2020-02-06T16:39:39",
+            "upload_time_iso_8601": "2020-02-06T16:39:39.623227Z",
+            "url": "https://files.pythonhosted.org/packages/fa/9a/c4ac98ff2c6b6827724cdb41d4509c360d39bd4e55d08651683b2251d55c/101703375_p2-0.0.8.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
