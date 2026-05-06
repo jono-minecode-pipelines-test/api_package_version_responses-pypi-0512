@@ -1,0 +1,109 @@
+{
+    "info": {
+        "author": "Uday Sharma",
+        "author_email": "udaysharma1501@gmail.com",
+        "bugtrack_url": null,
+        "classifiers": [
+            "License :: OSI Approved :: MIT License",
+            "Operating System :: OS Independent",
+            "Programming Language :: Python :: 3"
+        ],
+        "description": "## Project description\r\n# MCDM solution using TOPSIS using CLI\r\nA Python package made by me to solve the problem of MCDM (Multi Criteria Decision Making) implemented using TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) algorithm. \r\nThis package supports both CSV and Excel files.\r\n\r\n### Installation\r\n\r\nFollow the steps below to install and use the package:\r\n\r\nInstall the Package from PyPI (recommended):\r\n\r\n`pip install 102203092_topsis`\r\n\r\nRepo Clone (optional):\r\n\r\n`git clone`\r\n\r\n`cd TOPSIS-pypi`\r\n\r\n(Optional) Install Locally: If you have the source code and want to install the package locally:\r\n\r\n`pip install setuptools wheel`\r\n\r\n`python setup.py sdist bdist_wheel`\r\n\r\n`pip install .`\r\n\r\n| Argument   | Description                         |\r\n|------------|-------------------------------------|\r\n| input_file | \"CSV/Excel\" file path              |\r\n| weights`   | Comma-separated numbers            |\r\n| impacts  | Comma-separated '+' or '-'         |\r\n| output_file | Output CSV/Excel file path         |\r\n\r\n\r\n### Usage\r\n1. After installation, you can use the package directly from the command line using topsis-cli.\r\n2. The CLI supports both .csv and .xlsx formats for input and output files.\r\n3. Command-Line Interface (CLI)\r\n4. Package installed from PyPi can be globally used irrespective of directory\r\n\r\n`topsis-cli <input_file> <weights> <impacts> <output_file>`\r\n\r\n### Args:\r\n1. **input_file:** Path to the input file (must be .csv or .xlsx).\r\n2. **weights:** Comma-separated list of weights for the criteria (e.g., 0.4,0.3,0.3).\r\n3. **impacts:** Comma-separated list of impacts for the criteria (+ for positive, - for negative).\r\n4. **output_file:** Path to save the output file (can be .csv or .xlsx).\r\n\r\n### Input File Format\r\n\r\n| Col 1       | Col 2             | Col 3           |\r\n|-------------|-------------------|-----------------|\r\n| Alternte ID | Criterion 1 Value | Criterion 2 Value |\r\n\r\n\r\n### Output File Format\r\n\r\n| Col 1       | Col 2            | Col 3             | Col 4          | Col 5       |\r\n|-------------|------------------|-------------------|----------------|------------|\r\n| Alternate ID| Criterion 1 Value | V2                | Topsis Score   | Rank       |\r\n              \r\n**_Uday Sharma_**\r\n\r\n**_102203092_**\r\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": null,
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": [
+            "Author",
+            "Author-Email",
+            "Classifier",
+            "Description",
+            "Description-Content-Type",
+            "Requires-Dist",
+            "Requires-Python",
+            "Summary"
+        ],
+        "home_page": null,
+        "keywords": null,
+        "license": null,
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "name": "102203092-topsis",
+        "package_url": "https://pypi.org/project/102203092-topsis/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/102203092-topsis/",
+        "project_urls": null,
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/102203092-topsis/1.1.2/",
+        "requires_dist": [
+            "numpy",
+            "pandas"
+        ],
+        "requires_python": ">=3.6",
+        "summary": "MCDM solved using TOPSIS",
+        "version": "1.1.2",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 27027491,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "udaysharma1501"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "654c6a7ddc732c0483c01970b7fe9f2eeff15ca8c24834fb3fe1cf322dad6c8d",
+                "md5": "7934724efe5a58d825b163687be4dbeb",
+                "sha256": "9daa71519687e86b339f68093f7f2bbfbee2b0f91d02d46ffe14e5686e5ed5ca"
+            },
+            "downloads": -1,
+            "filename": "102203092_topsis-1.1.2-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "7934724efe5a58d825b163687be4dbeb",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": ">=3.6",
+            "size": 3658,
+            "upload_time": "2025-01-19T20:02:52",
+            "upload_time_iso_8601": "2025-01-19T20:02:52.912297Z",
+            "url": "https://files.pythonhosted.org/packages/65/4c/6a7ddc732c0483c01970b7fe9f2eeff15ca8c24834fb3fe1cf322dad6c8d/102203092_topsis-1.1.2-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "6e6fe6e8362e3cbadb54a54c12ea885cb11a3e56bd52d25cd9fa95677f07875b",
+                "md5": "6309485fbef1488c09c7eb88cfb9e668",
+                "sha256": "768c6573f72b86bbd96a2e411a9078d9d9377435433c963c066a32cd37d9fb8e"
+            },
+            "downloads": -1,
+            "filename": "102203092_topsis-1.1.2.tar.gz",
+            "has_sig": false,
+            "md5_digest": "6309485fbef1488c09c7eb88cfb9e668",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": ">=3.6",
+            "size": 3340,
+            "upload_time": "2025-01-19T20:02:55",
+            "upload_time_iso_8601": "2025-01-19T20:02:55.108701Z",
+            "url": "https://files.pythonhosted.org/packages/6e/6f/e6e8362e3cbadb54a54c12ea885cb11a3e56bd52d25cd9fa95677f07875b/102203092_topsis-1.1.2.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
